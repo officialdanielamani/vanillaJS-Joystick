@@ -1,5 +1,5 @@
-# vanillaJS-Slider
-A simple implementation for slider that using vanilla JS for better slider support like vertical slider. No need external library, easy to use.
+# vanillaJS-Joystick
+A simple implementation for joystick that using vanilla JS for joystick. No need external library, easy to use.
 
 ## To-Do
 - [ ] Versioning
@@ -8,12 +8,6 @@ A simple implementation for slider that using vanilla JS for better slider suppo
 - [ ] Adding more info, picture and tryme webpage
 
 ## How to use it
-
-Here is a basic guide to implement the joystick using the `Joystick` class in a similar manner to the slider example you provided. This guide will show how to include the necessary JavaScript file, create a joystick component, and configure it with custom options.
-
-### Basic Guide for Joystick
-
-#### HTML Setup
 
 First, include the necessary `joystick.js` file and create a unique `<div>` for each joystick instance.
 
@@ -58,7 +52,7 @@ First, include the necessary `joystick.js` file and create a unique `<div>` for 
 </html>
 ```
 
-#### Explanation:
+### Explanation:
 
 1. **Include the Joystick JavaScript File**:
    - Include the necessary `joystick.js` file with the `<script>` tag: `<script src="joystick.js"></script>`.
